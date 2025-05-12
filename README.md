@@ -2,6 +2,8 @@
 
 This project uses the K-Nearest Neighbors (KNN) algorithm to segment telecom customers and predict their service category based on demographic and usage data. It helps in understanding customer behavior for potential targeted marketing strategies.
 
+[visit Live]()
+
 ---
 
 ## Table of Contents
